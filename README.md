@@ -6,4 +6,4 @@
 
 Release中共有5个视频文件，它们是我写代码时录制的过程，如有需要可以观看
 
-项目制作：[Colab项目](https://colab.research.google.com/drive/1NGO_sYKdzCtFV5PrSF3LuNjwt1M3sesw?usp=sharing)，可能需要自己导入**songs_normalize.csv**文件
+项目制作：[Colab项目](https://colab.research.google.com/drive/1NGO_sYKdzCtFV5PrSF3LuNjwt1M3sesw?usp=sharing)，可能需要自己导入[songs_normalize.csv](https://github.com/Liperfik/26.8Project/blob/main/songs_normalize.csv)文件
