@@ -13,4 +13,4 @@
 
 但是这项服务在24年停运了，所以可以选择使用大模型来给出评分（本来打算用机器学习训练模型给分的，但是时间确实过于紧张），我在仓库中上传了[claude_music.md](https://github.com/Liperfik/26.8Project/blob/main/claude_music.md)文件，其中是我写好的可在Claude中使用的关键词
 
-Release中共有5个视频文件，它们是我写代码时录制的过程，如有需要可以观看
+[Release](https://github.com/Liperfik/26.8Project/releases/tag/Coding_videos)中共有5个视频文件，它们是我写代码时录制的过程，如有需要可以观看
